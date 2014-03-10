@@ -1,5 +1,5 @@
-Drawing on the Web
+Drawing on the Web Remix by Richie Siegel 
 ==================
 
 Spring 2014, New York University  
-Joshua Clayton, Clinical Assistant Professor
+Forked from Joshua Clayton, Clinical Assistant Professor and added some "Parks and Rec" 
